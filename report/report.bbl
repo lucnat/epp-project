@@ -1,0 +1,19 @@
+
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{ttbarobs}
+T.C.~Collaboration, \emph{Observation of top quark production in pbar-p
+  collisions},  \href{https://arxiv.org/abs/arXiv:hep-ex/9503002}{{\ttfamily
+  arXiv:hep-ex/9503002}}.
+
+\bibitem{lhc}
+L.~Evans and P.~Bryant, eds., \emph{{LHC Machine}},
+  \href{https://doi.org/10.1088/1748-0221/3/08/S08001}{\emph{JINST} {\bfseries
+  3} (2008) S08001}.
+
+\bibitem{topxs}
+M.~Czakon, P.~Fiedler and A.~Mitov, \emph{The total top quark pair production
+  cross-section at hadron colliders through $o(\alpha_s^4)$},
+  \href{https://arxiv.org/abs/arXiv:1303.6254}{{\ttfamily arXiv:1303.6254}}.
+
+\end{thebibliography}\endgroup
