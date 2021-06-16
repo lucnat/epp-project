@@ -1,0 +1,57 @@
+
+----------- stats ----------
+Number of entries for ttbar: 36941
+Number of entries for dy: 77729
+Number of entries for qcd: 142
+Number of entries for single_top: 5684
+Number of entries for wjets: 109737
+Number of entries for ww: 4580
+Number of entries for zz: 2421
+Number of entries for wz: 3367
+Number of entries for data: 469384
+
+
+
+----------- signal and background ----------
+NIsoMu signal
+125.97721862792969 5.784676484386343
+NIsoMu background
+20.2584228515625 4.935878181782902
+Muon_Pt signal
+125.04252279549837 5.7630944970537685
+Muon_Pt background
+20.075087495148182 4.93474188436702
+MET_Pt signal
+125.68399545550346 5.777241735542324
+MET_Pt background
+20.199656922370195 4.93552829559465
+NJet signal
+122.34317302703857 5.700317346888672
+NJet background
+20.23541384935379 4.935824535223762
+Muon_eta signal
+126.86422100663185 5.807304838184838
+Muon_eta background
+21.460138738155365 4.982641698357635
+NJetFinal signal
+0.0 0.0
+NJetFinal background
+0.0 0.0
+
+
+----------- perform subtraction ----------
+observations [141.          11.87434209]
+background [20.19965692  4.9355283 ]
+diff [120.80034308  12.85921613]
+
+
+----------- evaluate acceptance and trigger efficiency ----------
+ttbar no trigger cut [142.47761247   6.15553766]
+acceptance =  0.017970061898065368
+ttbar with trigger cut [125.68399546   5.77724174]
+triggereff = 0.8821315382896661 +- 0.027014203558312855
+
+----------- cross section ----------
+[172.7753938   20.96731275]
+theory [173.6, 11.7]
+chi2 0.0005897258641565592

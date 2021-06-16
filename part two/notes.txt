@@ -1,0 +1,23 @@
+
+
+  Signal event selection
+  ======================
+  
+  Muons:
+    - min p_T = 20 GeV
+    - abs(eta) < 2.1 (pseudorapidity)
+
+  Electrons:
+    - E_T > 30 GeV and abs(eta) < 2.5
+
+  Exactly 1 isolated lepton
+   -> rel. isolation < 0.05 for muons, and < 0.10 for electrons
+  
+  Jets:
+    - At least one jet with p_T > 25 GeV and abs(eta) < 2.4
+    - At least one jet b tagged
+    - At least four jets
+
+  Neutrino:
+    - Missing transverse energy at least 20 GeV
+
